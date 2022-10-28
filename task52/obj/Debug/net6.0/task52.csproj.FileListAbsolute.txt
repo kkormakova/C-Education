@@ -1,0 +1,15 @@
+/Users/k.kormakova/Documents/C#education/task52/obj/Debug/net6.0/task52.csproj.AssemblyReference.cache
+/Users/k.kormakova/Documents/C#education/task52/obj/Debug/net6.0/task52.GeneratedMSBuildEditorConfig.editorconfig
+/Users/k.kormakova/Documents/C#education/task52/obj/Debug/net6.0/task52.AssemblyInfoInputs.cache
+/Users/k.kormakova/Documents/C#education/task52/obj/Debug/net6.0/task52.AssemblyInfo.cs
+/Users/k.kormakova/Documents/C#education/task52/obj/Debug/net6.0/task52.csproj.CoreCompileInputs.cache
+/Users/k.kormakova/Documents/C#education/task52/bin/Debug/net6.0/task52
+/Users/k.kormakova/Documents/C#education/task52/bin/Debug/net6.0/task52.deps.json
+/Users/k.kormakova/Documents/C#education/task52/bin/Debug/net6.0/task52.runtimeconfig.json
+/Users/k.kormakova/Documents/C#education/task52/bin/Debug/net6.0/task52.dll
+/Users/k.kormakova/Documents/C#education/task52/bin/Debug/net6.0/task52.pdb
+/Users/k.kormakova/Documents/C#education/task52/obj/Debug/net6.0/task52.dll
+/Users/k.kormakova/Documents/C#education/task52/obj/Debug/net6.0/refint/task52.dll
+/Users/k.kormakova/Documents/C#education/task52/obj/Debug/net6.0/task52.pdb
+/Users/k.kormakova/Documents/C#education/task52/obj/Debug/net6.0/task52.genruntimeconfig.cache
+/Users/k.kormakova/Documents/C#education/task52/obj/Debug/net6.0/ref/task52.dll
